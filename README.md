@@ -1,3 +1,3 @@
 # Python
-CS61A
-Google Python Class: basic exercises
+1. Google Python Class: basic exercises
+2. CS61A
